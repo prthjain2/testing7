@@ -4,4 +4,4 @@
             RUN npm install
             COPY . /app
             CMD node app2.json
-            EXPOSE 8000
+            EXPOSE 1111
